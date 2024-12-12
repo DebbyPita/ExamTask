@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    
+}
+
+header, footer {
+    background-color: #333333;
+    color: burlywood;
+}
+
+h1, h3, h4 {
+    margin-bottom: 1rem;
+}
+
+img {
+    border: 3px solid #ddd;
+}
+.ExamPass {
+    max-width: 800px;
+    max-height: 800px;
+    width: auto;
+    height: auto;
+    border: 2px solid #ddd;
+}
